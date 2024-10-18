@@ -1,0 +1,8 @@
+Camera:
+- focal length: 50mm
+
+Projector:
+- 20m to the right of camera
+- 20 degrees looking to the left
+- FOV 52 degrees
+- focal length: 211.1m
