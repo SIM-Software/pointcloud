@@ -1,14 +1,14 @@
 # pointcloud
 
-## Photos Info
-The only photos I currently have are rendered in Blender. These photos are from a simple environment where 63 lines are being projected onto the objects.
-
-Eventually, I plan on adding more sets of photos, specifically ones with rotated lines, and new environments like the moon's surface.
-
 ## General Info  
 Scripts are located at ```pointcloud/src```
 
 I plan on using ROS2 Humble with Rviz2 to visualize the pointcloud. Currently, there are no scripts using ROS, but keep this in mind for later scripts.
+
+## Photos Info
+The only photos I currently have are rendered in Blender. These photos are from a simple environment where 63 lines are being projected onto the objects.
+
+Eventually, I plan on adding more sets of photos, specifically ones with rotated lines, and new environments like the moon's surface.
 
 ## Version Info
 g++ version: 11.4.0  
